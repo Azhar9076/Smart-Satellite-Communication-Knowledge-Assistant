@@ -1,0 +1,28 @@
+Problem Statement No.24 : Smart Satellite Communication Knowledge 
+Assistant 
+The Challenge 
+Satellite communication systems involve complex concepts such as frequency bands, signal 
+modulation, link budgets, and communication protocols. Engineers and students often struggle 
+to understand these topics because the knowledge is distributed across textbooks, research 
+papers, and technical documentation. 
+Finding relevant information and troubleshooting communication issues can take significant 
+time. 
+The challenge is to build an intelligent assistant that can retrieve knowledge and explain 
+satellite communication concepts in an easy and interactive manner. 
+The Objective 
+Build a Satellite Communication Knowledge Assistant that helps users understand and 
+troubleshoot satellite communication systems. The solution should: 
+1. 
+2. 
+3. 
+4. 
+Knowledge Retrieval :- Extract information from satellite communication documents and 
+technical materials. 
+Concept Explanation :- Explain complex topics such as modulation techniques, frequency 
+bands, and link budgets in simple language. 
+Troubleshooting Support :- Provide guidance for solving satellite communication 
+problems. 
+Conversational Interface :- Allow users to ask questions and receive responses through an 
+interactive chat interface. 
+Tech Stack 
+• IBM Langflow / IBM Orchestrate + IBM Models 

@@ -1,0 +1,16 @@
+{
+  "name": "SatGuide",
+  "description": "Smart Satellite Communication Knowledge Assistant that retrieves knowledge, explains concepts, and provides troubleshooting guidance through an interactive interface.",
+  "version": "1.0.0",
+  "author": "Azhar Patel",
+  "problem_statement": "Problem Statement No.24 - Smart Satellite Communication Knowledge Assistant",
+  "category": "Artificial Intelligence",
+  "technologies": [
+    "watsonx Orchestrate",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "entry_point": "index.html",
+  "license": "MIT"
+}
